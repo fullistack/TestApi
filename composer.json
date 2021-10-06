@@ -1,0 +1,13 @@
+{
+    "name": "timur-ulikhanov/test-project",
+    "authors": [
+        {
+            "name": "developerTimur",
+            "email": "timurul65@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["API"]
+    }
+}
